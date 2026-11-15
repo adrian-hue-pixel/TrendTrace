@@ -1,0 +1,19 @@
+{
+ "data_status": "real",
+ "data_version": "REAL-G3-2026-11-14-a4151cac",
+ "contract_version": "1.0",
+ "assets": {
+  "timeseries_monthly.csv": {
+   "data_status": "real",
+   "sha256": "53790c8036fd28e1133a4d40f4112519f7049f6a2b5bbbbd2c3779e88cb6622d"
+  },
+  "timeseries_daily.csv": {
+   "data_status": "real",
+   "sha256": "725d67d59ec0bad80081870d133a664dfd6a28c7e8e5b876f7291573c9439598"
+  },
+  "rainfall_indicators_annual.csv": {
+   "data_status": "real",
+   "sha256": "ecc2666bea4e473ce682383c0f5f79b8423f6628d134bffaeb5ef7095e64c48b"
+  }
+ }
+}

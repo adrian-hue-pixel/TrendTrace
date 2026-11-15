@@ -1,0 +1,107 @@
+{
+ "data_status": "real",
+ "data_version": "REAL-G3-2026-11-14-a4151cac",
+ "contract_version": "1.0",
+ "generated_at": "2026-11-15T09:06:02+05:30",
+ "result": [
+  {
+   "source_id": "IMERG_V07_FINAL_MONTHLY",
+   "product": "GPM IMERG Final Precipitation L3 1 month 0.1 degree x 0.1 degree V07 (GPM_3IMERGM)",
+   "short_name": "GPM_3IMERGM",
+   "version": "07",
+   "doi": null,
+   "access_method": "NASA Giovanni area-averaged export (authenticated); monthly temporal coverage from the matched daily product",
+   "access_date": "2026-11-13",
+   "variable_name": "precipitation",
+   "citation": "GPM IMERG Final Precipitation L3 1 month 0.1 degree x 0.1 degree V07 (GPM_3IMERGM). NASA. Area-averaged time series via NASA Giovanni, accessed 2026-11-13. https://cmr.earthdata.nasa.gov/search/concepts/C2723754851-GES_DISC.html"
+  },
+  {
+   "source_id": "IMERG_V07_FINAL_DAILY",
+   "product": "GPM IMERG Final Precipitation L3 1 day 0.1 degree x 0.1 degree V07 (GPM_3IMERGDF)",
+   "short_name": "GPM_3IMERGDF",
+   "version": "07",
+   "doi": null,
+   "access_method": "NASA Giovanni area-averaged export (authenticated); daily spatial coverage unknown",
+   "access_date": "2026-11-13",
+   "variable_name": "precipitation",
+   "citation": "GPM IMERG Final Precipitation L3 1 day 0.1 degree x 0.1 degree V07 (GPM_3IMERGDF). NASA. Area-averaged time series via NASA Giovanni, accessed 2026-11-13. https://cmr.earthdata.nasa.gov/search/concepts/C2723754864-GES_DISC.html"
+  },
+  {
+   "source_id": "MODIS_AQUA_C61_MONTHLY",
+   "product": "MODIS/Aqua Aerosol Cloud Water Vapor Ozone Monthly L3 Global 1Deg CMG",
+   "short_name": "MYD08_M3",
+   "version": "6.1",
+   "doi": null,
+   "access_method": "NASA Giovanni area-averaged export (authenticated); monthly temporal coverage from the matched daily product",
+   "access_date": "2026-11-13",
+   "variable_name": "AOD_550_Dark_Target_Deep_Blue_Combined_Mean_Mean",
+   "citation": "MODIS/Aqua Aerosol Cloud Water Vapor Ozone Monthly L3 Global 1Deg CMG. NASA. Area-averaged time series via NASA Giovanni, accessed 2026-11-13. https://cmr.earthdata.nasa.gov/search/concepts/C1443775657-LAADS.html"
+  },
+  {
+   "source_id": "MODIS_AQUA_C61_DAILY",
+   "product": "MODIS/Aqua Aerosol Cloud Water Vapor Ozone Daily L3 Global 1Deg CMG",
+   "short_name": "MYD08_D3",
+   "version": "6.1",
+   "doi": null,
+   "access_method": "NASA Giovanni area-averaged export (authenticated); daily spatial coverage unknown",
+   "access_date": "2026-11-13",
+   "variable_name": "AOD_550_Dark_Target_Deep_Blue_Combined_Mean",
+   "citation": "MODIS/Aqua Aerosol Cloud Water Vapor Ozone Daily L3 Global 1Deg CMG. NASA. Area-averaged time series via NASA Giovanni, accessed 2026-11-13. https://cmr.earthdata.nasa.gov/search/concepts/C1443729298-LAADS.html"
+  },
+  {
+   "source_id": "MODIS_TERRA_C61_MONTHLY",
+   "product": "MOD08_M3 version 6.1",
+   "short_name": "MOD08_M3",
+   "version": "6.1",
+   "doi": null,
+   "access_method": "NASA Giovanni area-averaged export (authenticated); comparison series, temporal coverage not exported",
+   "access_date": "2026-11-13",
+   "variable_name": "AOD_550_Dark_Target_Deep_Blue_Combined_Mean_Mean",
+   "citation": "MOD08_M3 version 6.1. NASA. Area-averaged time series via NASA Giovanni, accessed 2026-11-13. https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/products/MOD08_M3"
+  },
+  {
+   "source_id": "MERRA2_MONTHLY_TOTEXTTAU",
+   "product": "M2TMNXAER version 5.12.4",
+   "short_name": "M2TMNXAER",
+   "version": "5.12.4",
+   "doi": null,
+   "access_method": "NASA Giovanni area-averaged export (authenticated); comparison series, temporal coverage not exported",
+   "access_date": "2026-11-13",
+   "variable_name": "TOTEXTTAU",
+   "citation": "M2TMNXAER version 5.12.4. NASA. Area-averaged time series via NASA Giovanni, accessed 2026-11-13. https://disc.gsfc.nasa.gov/datasets/M2TMNXAER_5.12.4/summary"
+  },
+  {
+   "source_id": "NASA_POWER_T2M",
+   "product": "NASA POWER monthly T2M (MERRA-2/GEOS-based meteorology)",
+   "short_name": "T2M",
+   "version": "as downloaded",
+   "doi": null,
+   "access_method": "NASA POWER monthly point API, box mean",
+   "access_date": "2026-11-15",
+   "variable_name": "T2M",
+   "citation": "NASA Langley Research Center POWER Project, monthly point API (power.larc.nasa.gov), accessed 2026-11-15."
+  },
+  {
+   "source_id": "NASA_POWER_PRECTOTCORR",
+   "product": "NASA POWER monthly PRECTOTCORR (MERRA-2/GEOS-based meteorology)",
+   "short_name": "PRECTOTCORR",
+   "version": "as downloaded",
+   "doi": null,
+   "access_method": "NASA POWER monthly point API, box mean",
+   "access_date": "2026-11-15",
+   "variable_name": "PRECTOTCORR",
+   "citation": "NASA Langley Research Center POWER Project, monthly point API (power.larc.nasa.gov), accessed 2026-11-15."
+  },
+  {
+   "source_id": "OMI_OMNO2D_V003_MONTHLY_MEAN",
+   "product": "OMNO2d v003",
+   "short_name": "OMNO2d_003_ColumnAmountNO2TropCloudScreened",
+   "version": "as downloaded",
+   "doi": null,
+   "access_method": "NASA Giovanni area-averaged time series CSV",
+   "access_date": "2026-11-15",
+   "variable_name": "ColumnAmountNO2TropCloudScreened",
+   "citation": null
+  }
+ ]
+}
