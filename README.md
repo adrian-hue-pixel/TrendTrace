@@ -13,6 +13,10 @@
 <img src="https://img.shields.io/badge/three.js-3D%20globe-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="three.js">
 </p>
 
+## App Link
+
+https://trendtrace-api-staging-9mu8.onrender.com
+
 **NASA Space Apps Challenge 2026 · "Be An Earth System Trend Detective!" · Team Copernicus**
 
 </div>
